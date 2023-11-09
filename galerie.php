@@ -32,10 +32,10 @@
         </div>
     </div>
     <div class="fancyBox">
-        <span class="prev-button">&lt;</span>   
+        <span class="prev-button" class="lienHover">&lt;</span>   
         <img src="img/gite-3.jpg" alt="Photo azerty">
-        <span class="next-button">&gt;</span>
-        <span class="fermer">X</span>
+        <span class="next-button" class="lienHover">&gt;</span>
+        <span class="fermer" class="lienHover">X</span>
     </div>
     
 <?php require_once "_footer.php"; ?>

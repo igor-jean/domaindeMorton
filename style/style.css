@@ -58,6 +58,11 @@ ul {
 i {
     font-size: 25px;
 }
+/* HOVER LIEN */
+.lienHover:hover {
+    color: rgb(178, 178, 1);
+    transition: 0.5s ;
+}
 /* MAIN */
 /* aside */
 .aside-content {
@@ -287,4 +292,8 @@ input[type = submit]{
     background: #999374;
     border-radius: 3px;
     color: #ffffff;
+    width: 150px;
+    height: 40px;
+    font-size: 1.3rem;
+    cursor: pointer;
 }

@@ -17,16 +17,16 @@
     <nav>
         <div class="container flexNav">
             <ul>
-                <li><a href="index.php" title="Accueil">Accueil</a></li>
-                <li><a href="domaine.php" title="Le domaine">Le Domaine</a></li>
-                <li><a href="galerie.php" title="Galerie">Galerie</a></li>
-                <li><a href="contact.php" title="Contact">Contact</a></li>
+                <li><a href="index.php" class="lienHover" title="Accueil">Accueil</a></li>
+                <li><a href="domaine.php" class="lienHover" title="Le domaine">Le Domaine</a></li>
+                <li><a href="galerie.php" class="lienHover" title="Galerie">Galerie</a></li>
+                <li><a href="contact.php" class="lienHover" title="Contact">Contact</a></li>
             </ul>
             <ul>
-                <li><a href="" title="Facebook"><i class="fa-brands fa-facebook-f" style="color: #ffffff;"></i></a></li>
-                <li><a href="" title="X"><i class="fa-brands fa-x-twitter" style="color: #ffffff;"></i></a></li>
-                <li><a href="" title="Instagram"><i class="fa-brands fa-instagram" style="color: #ffffff;"></i></a></li>
-                <li><a href="" title="Yourtube"><i class="fa-brands fa-youtube" style="color: #ffffff;"></i></a></li>
+                <li><a href="" title="Facebook"><i class="fa-brands fa-facebook-f lienHover" style="color: #ffffff;"></i></a></li>
+                <li><a href="" title="X"><i class="fa-brands fa-x-twitter lienHover" style="color: #ffffff;"></i></a></li>
+                <li><a href="" title="Instagram"><i class="fa-brands fa-instagram lienHover" style="color: #ffffff;"></i></a></li>
+                <li><a href="" title="Yourtube"><i class="fa-brands fa-youtube lienHover" style="color: #ffffff;"></i></a></li>
             </ul>
         </div>
     </nav>

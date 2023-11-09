@@ -11,7 +11,7 @@
                 <li>Téléphone :</li>
                 <li>03 56 45 85 41</li>
                 <li>Email :</li>
-                <li><a href="mailto:contact@contact.com" title="Envoyer un mail">contact@contact.com</a></li>
+                <li><a href="mailto:contact@contact.com" class="lienHover" title="Envoyer un mail">contact@contact.com</a></li>
             </ul>
         </div>
         <div class="form">
@@ -34,7 +34,7 @@
                     <textarea name="msg" style="resize:none" id="msg" cols="30" rows="5"></textarea>
                 </div>
                
-                <input type="submit" value="Envoyer">
+                <input type="submit" class="lienHover" value="Envoyer">
             </form>
         </div>
     </div>

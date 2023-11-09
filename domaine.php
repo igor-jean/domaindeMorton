@@ -3,9 +3,9 @@
         </div>
     <?php require_once "_asideContent.php"; ?>
             <section>
-                <span><a href="#gite">Le Gîte</a></span>
-                <span><a href="#jardin">Le Jardin</a></span>
-                <span><a href="#potager">Le Potager</a></span>
+                <span><a href="#gite" class="lienHover">Le Gîte</a></span>
+                <span><a href="#jardin" class="lienHover">Le Jardin</a></span>
+                <span><a href="#potager" class="lienHover">Le Potager</a></span>
                 <article>
                     <h2 id="gite">Le Gîte</h2>
                     <p>
@@ -17,10 +17,10 @@
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nemo quod voluptatibus eos fugiat voluptatem repellat eveniet recusandae modi animi!
                     </p>
-                    <div>
-                        <img src="img/gite-1.jpg" alt="Photo du Gîte">
-                        <img src="img/gite-2.jpg" alt="Photo du Gîte">
-                        <img src="img/gite-3.jpg" alt="Photo du Gîte">
+                    <div> 
+                        <a href="galerie.php"><img src="img/gite-1.jpg" alt="Photo du Gîte"></a>
+                        <a href="galerie.php"><img src="img/gite-2.jpg" alt="Photo du Gîte"></a>
+                        <a href="galerie.php"><img src="img/gite-3.jpg" alt="Photo du Gîte"></a>
                     </div>
                 </article>
                 <article>
@@ -35,9 +35,9 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nemo quod voluptatibus eos fugiat voluptatem repellat eveniet recusandae modi animi!
                     </p>
                     <div>
-                        <img src="img/jardin-1.jpg" alt="Photo du Jardin">
-                        <img src="img/jardin-2.jpg" alt="Photo du Jardin">
-                        <img src="img/jardin-3.jpg" alt="Photo du Jardin">
+                        <a href="galerie.php"><img src="img/jardin-1.jpg" alt="Photo du Jardin"></a>
+                        <a href="galerie.php"><img src="img/jardin-2.jpg" alt="Photo du Jardin"></a>
+                        <a href="galerie.php"><img src="img/jardin-3.jpg" alt="Photo du Jardin"></a>
                     </div>
                 </article>
                 <article>
@@ -52,9 +52,9 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nemo quod voluptatibus eos fugiat voluptatem repellat eveniet recusandae modi animi!
                     </p>
                     <div>
-                        <img src="img/potager-1.jpg" alt="Photo du Potager">
-                        <img src="img/potager-2.jpg" alt="Photo du Potager">
-                        <img src="img/potager-3.jpg" alt="Photo du Potager">
+                        <a href="galerie.php"><img src="img/potager-1.jpg" alt="Photo du Potager"></a>
+                        <a href="galerie.php"><img src="img/potager-2.jpg" alt="Photo du Potager"></a>
+                        <a href="galerie.php"><img src="img/potager-3.jpg" alt="Photo du Potager"></a>
                     </div>
                 </article>
             </section>

@@ -9,7 +9,6 @@ let currentIndex = 0;
 fancy.forEach((fancy) => {
     fancy.addEventListener("click",()=>{
         fancyBox.style.display="block";
-        currentIndex = index;
         fancyBoxImage.src = fancy.querySelector("img").src;
     })
 });
