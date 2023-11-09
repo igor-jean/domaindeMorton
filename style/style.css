@@ -63,6 +63,10 @@ i {
     color: rgb(178, 178, 1);
     transition: 0.5s ;
 }
+.fa-brands:hover {
+    color: rgb(178, 178, 1);
+    transition: 0.5s ;
+}
 /* MAIN */
 /* aside */
 .aside-content {

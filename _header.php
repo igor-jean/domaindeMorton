@@ -23,10 +23,10 @@
                 <li><a href="contact.php" class="lienHover" title="Contact">Contact</a></li>
             </ul>
             <ul>
-                <li><a href="" title="Facebook"><i class="fa-brands fa-facebook-f lienHover" style="color: #ffffff;"></i></a></li>
-                <li><a href="" title="X"><i class="fa-brands fa-x-twitter lienHover" style="color: #ffffff;"></i></a></li>
-                <li><a href="" title="Instagram"><i class="fa-brands fa-instagram lienHover" style="color: #ffffff;"></i></a></li>
-                <li><a href="" title="Yourtube"><i class="fa-brands fa-youtube lienHover" style="color: #ffffff;"></i></a></li>
+                <li><a href="#" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+                <li><a href="#" title="X"><i class="fa-brands fa-x-twitter"></i></a></li>
+                <li><a href="#" title="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+                <li><a href="#" title="Yourtube"><i class="fa-brands fa-youtube"></i></a></li>
             </ul>
         </div>
     </nav>
